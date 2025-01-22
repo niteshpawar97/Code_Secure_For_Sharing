@@ -1,0 +1,21 @@
+{
+  "name": "code_secure_for_sharing",
+  "version": "1.0.0",
+  "description": "Secure project files using JavaScript obfuscation and cryptography tools.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "obfuscation",
+    "cryptography"
+  ],
+  "author": "Nitesh K",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.1",
+    "nodemon": "^3.1.9"
+  }
+}
